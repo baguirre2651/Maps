@@ -3,7 +3,7 @@
 
 Creating a visualization of restaurant ratings using concepts of machine learning (K- means clustering) in Unsupervised Learning through the Yelp academic dataset. 
 
-That segements Berkeley into regions, where each region is shaded by the predicted rating of the closest restaurant (yellow is 5 stars, blue is 1 star). Specifically, the visualization is constructed in a Voronoi diagram.
+Segements Berkeley into regions, where each region is shaded by the predicted rating of the closest restaurant (yellow is 5 stars, blue is 1 star). Specifically, the visualization is constructed in a Voronoi diagram.
 
 The color of the dot is determined by the restaurant's location. For example, Downtown Berkeley restaurants are colored green. The user that generates this map has a strong preference for Southside restaurants, and so the southern regions are colored yellow.
 
