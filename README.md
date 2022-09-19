@@ -1,7 +1,7 @@
 # Maps
 
 
-Creating a visualization of restaurant ratings using concepts of machine learning (K- means clustering) in Unsupervised Learning through the Yelp academic dataset. 
+Creating a visualization of restaurant ratings using concepts of machine learning (K- means clustering) Unsupervised Learning through the Yelp academic dataset. 
 
 Segements Berkeley into regions, where each region is shaded by the predicted rating of the closest restaurant (yellow is 5 stars, blue is 1 star). Specifically, the visualization is constructed in a Voronoi diagram.
 
